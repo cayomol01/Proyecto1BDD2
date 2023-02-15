@@ -6,6 +6,7 @@ import "./VideoPlayer.css";
 
 
 import NavBar from "../NavBar/NavBar"
+import Comment from "../Comment/Comment"
 
 
 
@@ -25,10 +26,12 @@ export default function VideoPlayer({id, Titulo, link, }) {
                         </div>
 
                     </div>
+                    <hr/>
                     <div class="comment-section">
                         <h2>Comments: </h2>
+                        
                     </div>
-                    
+                    <Comment/>
                 </div>
 
             </main>
