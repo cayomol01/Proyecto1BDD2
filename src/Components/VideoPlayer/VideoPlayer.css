@@ -127,4 +127,13 @@ header {
     background-color: #6b6b6b;
 
   }
+
+  .comment-section{
+    margin-top: 10px;
+  }
+
+  
+  .comment-section h2{
+    margin-bottom: 20px;
+  }
   
