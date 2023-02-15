@@ -11,15 +11,6 @@ body {
     height: 100%;
 }
 
-header {
-    background-color: #111111;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 20px;
-    box-sizing: border-box;
-    position: sticky;
-  }
 
   .Home{
     display: flex;
@@ -89,7 +80,6 @@ header {
     background-color: #333;
     align-items: center;
     justify-content: center;
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
 
   }
 
